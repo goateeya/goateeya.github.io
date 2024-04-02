@@ -2,4 +2,3 @@
 some text line here.
 line2
 line3
-line4
